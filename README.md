@@ -1,6 +1,8 @@
 # 👋 Hi, I'm Vinayak
 
-I'm a passionate aspiring backend developer currently learning Data Structures and Algorithms to strengthen my problem-solving skills.
+🎓 Mechanical Engineering Graduate turned 💻 Passionate Backend Developer  
+🌱 Currently improving Data Structures & Algorithms  
+📫 Reach me at: vinayak.120820@gmail.com
 
 ---
 
@@ -31,9 +33,9 @@ I'm a passionate aspiring backend developer currently learning Data Structures a
 
 ---
 
-### 📚 Currently Learning
-- Data Structures & Algorithms 
-- Building full-stack applications with Spring Boot & Thymeleaf
+### 🧠 Currently Learning
+- Data Structures & Algorithms  
+- Spring Security & Full-Stack Java Development  
 
 ---
 
